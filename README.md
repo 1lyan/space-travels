@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Clone repo: git clone 
+1. Clone repo: git clone https://github.com/1lyan/space-travels.git
 2. cd space_travels
 3. bundle install
 4. run "./bin/execute.rb --help" in console to see how to run the program
